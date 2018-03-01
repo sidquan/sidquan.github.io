@@ -1,0 +1,32 @@
+html {
+	font-size: 12px;
+	font-family: placeholder: 'Lora', serif;
+	background-color: #FAFAF7;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FAFAF7;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;    
+}
+
+p, li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+}
